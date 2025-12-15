@@ -6,14 +6,8 @@ O projeto tem como objetivo principal aplicar um fluxo completo de Data Science 
 
 ---
 
-## 👥 Integrantes
-
-- André Henrique da Silva — RA: 851001  
+## 👥 Integrantes  
 - João Gustavo Pires Da Costa — RA: 2419919 
-- Leonardo Elias Figueiredo — RA: 856987
-- Luiz Gustavo Julio Salles - RA: 1449850
-- Vinicius Azevedo de Ávila  — RA: 1048328
-
 ---
 
 ## 2. 🔗 Dataset Utilizado
